@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+/* div p {
+    background-color: #FFE797;
+    color: #B45253;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* .container .text {
+    background-color: #FFE797;
+    color: #B45253;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* div .text {
+    background-color: #FFE797;
+    color: #B45253;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container p {
+    background-color: #FFE797;
+    color: #B45253;
+    font-size: 20px;
+    text-align: center;
+}
